@@ -134,6 +134,8 @@ a{
   padding-top: 20px;
 }
 
+/* Mobile section */
+
 @media (max-width: 1028px) {
 
   .col-1{
