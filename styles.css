@@ -50,6 +50,28 @@ a{
   color: black;
 }
 
+/* LOG IN reight side */
+
+.log-in{
+  margin-right: 10px;
+}
+
+.fa-user-plus{
+  color: #E05D5D;
+}
+
+.fas{
+  margin-right: 10px;
+}
+
+.btn{
+  color: black;
+}
+
+.log{
+  font-family: "ubuntu";
+}
+
 /* CONTENT */
 .content{
   margin-bottom: 30px;
@@ -128,7 +150,7 @@ a{
   color: #1DA1F2;
 }
 
-.fb-logo{
+.fb-logo, .fa-sign-in-alt{
   color: #4267B2;
 }
 

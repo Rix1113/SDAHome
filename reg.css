@@ -1,0 +1,72 @@
+body{
+  background-color: #E8F6EF;
+}
+
+.register-container{
+  text-align: center;
+}
+
+.reg-img{
+  margin-top: 100px;
+}
+
+.user-text{
+  margin-top: 50px;
+  margin-left: 22%;
+}
+
+.form-user{
+  margin-left: 50%;
+}
+
+label, input{
+  font-family: "Montserrat";
+}
+
+@media (max-width: 992px) {
+  .reg-img{
+    visibility: hidden;
+  }
+}
+
+.username-input{
+  margin-right: 14px;
+}
+
+.input-col{
+  margin-top: 50px;
+}
+
+/* FOOTER */
+
+#footer{
+  text-align: center;
+  background-color: #BEAEE2;
+  padding-bottom: 5px;
+  padding-top: 15px;
+}
+
+.twitter-icons{
+  color: #1DA1F2;
+}
+
+.fb-logo, .fa-sign-in-alt{
+  color: #4267B2;
+}
+
+.insta-logo{
+  color: #8a3ab9;
+}
+
+.mail-logo{
+  color: #4285F4;
+}
+
+.icons{
+  margin: 5px;
+}
+
+.Copyright{
+  font-family: "Montserrat";
+  padding-top: 20px;
+}
