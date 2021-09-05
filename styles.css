@@ -4,6 +4,7 @@ body{
 
 h1{
   font-family: "Ubuntu";
+
 }
 
 a{
@@ -94,10 +95,24 @@ a{
 
 .carousel-user{
   background-color: #F9F9F9;
+  padding: 100px 0;
 }
 
 .carousel-img{
   border-radius: 50px;
+}
+
+
+/* PRICING */
+
+.pricing-title{
+  text-align: center;
+  margin: 50px auto;
+  font-weight: bold;
+}
+
+.pricing-container{
+  margin-bottom: 50px;
 }
 
 /* FOOTER */
