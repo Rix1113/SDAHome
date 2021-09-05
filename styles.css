@@ -60,6 +60,10 @@ a{
   color: #E05D5D;
 }
 
+.fa-sign-in-alt{
+  color: #4267B2;
+}
+
 .fas{
   margin-right: 10px;
 }
@@ -150,7 +154,7 @@ a{
   color: #1DA1F2;
 }
 
-.fb-logo, .fa-sign-in-alt{
+.fb-logo{
   color: #4267B2;
 }
 
