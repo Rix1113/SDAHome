@@ -1,0 +1,150 @@
+body{
+  background-color:#E8F6EF;
+}
+
+h1{
+  font-family: "Ubuntu";
+}
+
+a{
+  display: block;
+  text-decoration: none;
+  font-family: "Montserrat";
+  color: black;
+  line-height: 2rem;
+}
+
+
+.hole-content{
+  background-color:#E8F6EF;
+}
+
+.header{
+  background-color: #fff;
+}
+
+.java-icon{
+  color: #DF711B;
+  margin-right: 10px;
+}
+
+/* Header menu */
+
+
+.title-text{
+  margin: 40px 0px 40px 0;
+  padding-left: 80px;
+}
+
+.left-menu{
+  display: block;
+  float: left;
+  margin: 40px 0 0 15px;
+  padding: 0px 10px;
+}
+
+/* CONTENT */
+.content{
+  margin-bottom: 30px;
+  margin-top: 70px;
+
+}
+
+.column-text{
+  width: 50%;
+}
+
+.gas-img{
+  width: 360px;
+  margin-bottom: 50px;
+}
+
+/* secondary container */
+
+.second-content{
+  background-color: #FFE194;
+  padding-bottom: 70px;
+}
+
+.bottom-column-text{
+  padding: 40px 230px 0 15px;
+}
+
+.title-text2{
+  text-align: center;
+  padding-top: 50px;
+}
+
+.dancing-img{
+  text-align: right;
+  margin-top: 45px;
+}
+
+/* Carousel */
+.carousel-item{
+  text-align: center;
+  padding: 1% 15%;
+}
+
+.carousel-user{
+  background-color: #EEEEEE;
+}
+
+.carousel-img{
+  border-radius: 50px;
+}
+
+/* FOOTER */
+
+#footer{
+  text-align: center;
+  background-color: #fff;
+  padding-bottom: 5px;
+  padding-top: 15px;
+}
+
+.twitter-icons{
+  color: #1DA1F2;
+}
+
+.fb-logo{
+  color: #4267B2;
+}
+
+.insta-logo{
+  color: #8a3ab9;
+}
+
+.mail-logo{
+  color: #4285F4;
+}
+
+.icons{
+  margin: 5px;
+}
+
+.Copyright{
+  font-family: "Montserrat";
+  padding-top: 20px;
+}
+
+@media (max-width: 1028px) {
+
+  .col-1{
+    width: 100%;
+  }
+
+  .dancing-img{
+    text-align: center;
+    margin-top: 45px;
+  }
+
+  .bottom-column-text{
+  padding-left: 35%  ;
+  }
+
+  .carousel-img{
+    border-radius: 50px;
+    width: 100%;
+  }
+}
