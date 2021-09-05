@@ -1,5 +1,5 @@
 body{
-  background-color:#E8F6EF;
+  background-color:#CDF0EA;
 }
 
 h1{
@@ -16,7 +16,7 @@ a{
 
 
 .hole-content{
-  background-color:#E8F6EF;
+  background-color:#CDF0EA;
 }
 
 .header{
@@ -43,6 +43,12 @@ a{
   padding: 0px 10px;
 }
 
+.nav-user{
+  font-family: "Ubuntu";
+  text-decoration: none;
+  color: black;
+}
+
 /* CONTENT */
 .content{
   margin-bottom: 30px;
@@ -62,7 +68,7 @@ a{
 /* secondary container */
 
 .second-content{
-  background-color: #FFE194;
+  background-color: #F7DBF0;
   padding-bottom: 70px;
 }
 
@@ -87,7 +93,7 @@ a{
 }
 
 .carousel-user{
-  background-color: #EEEEEE;
+  background-color: #F9F9F9;
 }
 
 .carousel-img{
@@ -98,7 +104,7 @@ a{
 
 #footer{
   text-align: center;
-  background-color: #fff;
+  background-color: #BEAEE2;
   padding-bottom: 5px;
   padding-top: 15px;
 }
